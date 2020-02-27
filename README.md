@@ -1,5 +1,5 @@
-##Image Manipulation opencv
-###Using opencv + python
+## Image Manipulation opencv
+### Using opencv + python
 * after cloning repo cd into it - "cd image-processing"
 * then run "python3 -m venv venv/" to initilize python virtual environment 
 * activate env by running "source venv/bin/activate"
