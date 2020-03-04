@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46a7efa2-0fb3-42a2-91c7-8096496af277" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.histogram">
+  <component name="RunManager" selected="Python.sharp">
     <configuration name="binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IProssing" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="edge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IProssing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/edge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="negetive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sharp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IProssing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/negetive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sharp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sharp" />
+        <item itemvalue="Python.edge" />
         <item itemvalue="Python.histogram" />
         <item itemvalue="Python.binary" />
         <item itemvalue="Python.crossProcessing" />
-        <item itemvalue="Python.flip" />
-        <item itemvalue="Python.negetive" />
       </list>
     </recent_temporary>
   </component>
@@ -159,30 +159,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1337" height="159" key="GridCell.Tab.0.bottom" timestamp="1582812592738">
-      <screen x="53" y="27" width="2673" height="741" />
-    </state>
-    <state width="1270" height="159" key="GridCell.Tab.0.bottom/53.27.1313.741@53.27.1313.741" timestamp="1582788394531" />
-    <state width="1337" height="159" key="GridCell.Tab.0.bottom/53.27.2673.741@53.27.2673.741" timestamp="1582812592738" />
-    <state width="1337" height="159" key="GridCell.Tab.0.center" timestamp="1582812592738">
-      <screen x="53" y="27" width="2673" height="741" />
-    </state>
-    <state width="1270" height="159" key="GridCell.Tab.0.center/53.27.1313.741@53.27.1313.741" timestamp="1582788394530" />
-    <state width="1337" height="159" key="GridCell.Tab.0.center/53.27.2673.741@53.27.2673.741" timestamp="1582812592738" />
-    <state width="1337" height="159" key="GridCell.Tab.0.left" timestamp="1582812592738">
-      <screen x="53" y="27" width="2673" height="741" />
-    </state>
-    <state width="1270" height="159" key="GridCell.Tab.0.left/53.27.1313.741@53.27.1313.741" timestamp="1582788394530" />
-    <state width="1337" height="159" key="GridCell.Tab.0.left/53.27.2673.741@53.27.2673.741" timestamp="1582812592738" />
-    <state width="1337" height="159" key="GridCell.Tab.0.right" timestamp="1582812592738">
-      <screen x="53" y="27" width="2673" height="741" />
-    </state>
-    <state width="1270" height="159" key="GridCell.Tab.0.right/53.27.1313.741@53.27.1313.741" timestamp="1582788394531" />
-    <state width="1337" height="159" key="GridCell.Tab.0.right/53.27.2673.741@53.27.2673.741" timestamp="1582812592738" />
-    <state x="365" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582782707480">
+    <state width="1290" height="151" key="GridCell.Tab.0.bottom" timestamp="1583295689219">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
-    <state x="365" y="225" key="com.intellij.ide.util.TipDialog/53.27.1313.741@53.27.1313.741" timestamp="1582782707480" />
+    <state width="1290" height="151" key="GridCell.Tab.0.bottom/53.27.1313.741@53.27.1313.741" timestamp="1583295689219" />
+    <state width="1337" height="159" key="GridCell.Tab.0.bottom/53.27.2673.741@53.27.2673.741" timestamp="1582816284007" />
+    <state width="1290" height="151" key="GridCell.Tab.0.center" timestamp="1583295689218">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1290" height="151" key="GridCell.Tab.0.center/53.27.1313.741@53.27.1313.741" timestamp="1583295689218" />
+    <state width="1337" height="159" key="GridCell.Tab.0.center/53.27.2673.741@53.27.2673.741" timestamp="1582816284006" />
+    <state width="1290" height="151" key="GridCell.Tab.0.left" timestamp="1583295689218">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1290" height="151" key="GridCell.Tab.0.left/53.27.1313.741@53.27.1313.741" timestamp="1583295689218" />
+    <state width="1337" height="159" key="GridCell.Tab.0.left/53.27.2673.741@53.27.2673.741" timestamp="1582816284004" />
+    <state width="1290" height="151" key="GridCell.Tab.0.right" timestamp="1583295689219">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state width="1290" height="151" key="GridCell.Tab.0.right/53.27.1313.741@53.27.1313.741" timestamp="1583295689219" />
+    <state width="1337" height="159" key="GridCell.Tab.0.right/53.27.2673.741@53.27.2673.741" timestamp="1582816284006" />
+    <state x="365" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583293471098">
+      <screen x="53" y="27" width="1313" height="741" />
+    </state>
+    <state x="365" y="225" key="com.intellij.ide.util.TipDialog/53.27.1313.741@53.27.1313.741" timestamp="1583293471098" />
     <state x="0" y="27" width="704" height="741" key="find.popup" timestamp="1582687263718">
       <screen x="53" y="27" width="1313" height="741" />
     </state>
